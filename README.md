@@ -3,3 +3,7 @@ A responsive and visually appealing landing page for a food-related web app. It 
 
 
 ![image alt](https://github.com/RamyaS-1701/LandingPage/blob/18271353a4e4e8c8a80d9a76b71b59bf3debf7f4/Screenshot%20(80).jpg)
+
+
+
+
