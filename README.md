@@ -9,5 +9,5 @@ A responsive and visually appealing landing page for a food-related web app. It 
 
 ## 🎥 Project Demo
 
-[Click here to watch the video demo](https://drive.google.com/file/d/1LnKIZQEn70dlA5n4J8tcyBbN0nhL-5pd/view?usp=drive_link)
+[Click here to watch the video demo](https://drive.google.com/file/d/1LnKIZQEn70dlA5n4J8tcyBbN0nhL-5pd/view?usp=sharing)
 
